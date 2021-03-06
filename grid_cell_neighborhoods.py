@@ -31,6 +31,12 @@ print("""
 The diagonal sum of [[1,0],[0,1]] is: """)
 print(diagonal_sum([[1, 2, 3], [4, 5, 6], [7, 8, 9]]))
 
+
+
+
+
+
+
 # def intersection_set(list1, list2):
 #     # list3 = [value for value in list if value in list2]
 #     # return list3
